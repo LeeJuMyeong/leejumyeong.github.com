@@ -1,24 +1,45 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-19 15:16:34 +0900
-categories: jekyll update
+#**과제 - 자기소개서**
+ ##### 2011136093 이주명
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-Jekyll also offers powerful support for code snippets:
+*안녕하세요.*
+_저는 3학년 **컴퓨터공학부**에 재학 중인 **이주명**이라고 합니다._
+_이번에 과제로 자기소개서를 작성하시라고 하셨는데... 딱히 생각나는 말이 없습니다._
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+####그래서 최대한 Markdown을 써보는 걸 목적으로 작성해보겠습니다!!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+일단, 자기소개서의 기본인 제 취미를 써보도록 하겠습니다.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+##취미
+- 영화 관람
+ - 액션
+ - 판타지 등등...
+- 독서 
+ - 만화 
+ - 추리 소설 등등...
+- 운동
+ - 최대한 **칼로리 소모가 적은** 운동
+ - 시간이 짧게 걸리는 운동
+---
+
+그 다음으로는 제가 좋아하는 음식에 대해서 적겠습니다.
+_(**참고로 저는 요리를 못합니다. 먹는 걸 좋아합니다.*)_
+##음식
+* 밥류
+ * 김밥, 주먹밥, 볶음밥, 카레 등등..
+* 배달 음식 (순위!!)
+ 1.  치느님 
+   * 제 생각으로는 한기대 배달 음식 대부분을 차지한다고 생각합니다.
+ 2. 짱개
+ 3. 피자
+* 찌개 or 국, 장
+ * 비지장, 된장국, 된장찌개 등등 (거의 대부분 좋아함)
+
+---
+
+이제 마지막으로 제가 방금 찾아본 명언 중 제일 좋았던 것을 쓰고 마치도록 하겠습니다.
+
+>*인생이란 대단한 모험이거나 아무것도 아니다.*
+ #####- 헬렌 켈러
+
+감사합니다.
