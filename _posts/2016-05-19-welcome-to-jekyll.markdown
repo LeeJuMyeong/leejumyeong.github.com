@@ -1,7 +1,3 @@
-#-*- coding: utf-8 -*-
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
 
  #**과제 - 자기소개서**  
  
