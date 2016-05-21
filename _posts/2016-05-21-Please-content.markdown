@@ -3,14 +3,14 @@ layout: default
 title:  "Welcome to Jekyll!"
 date:   2016-02-12 17:50:00
 categories: main
----
-#**과  제**
----
-#Hello
---- 
-#제발
----
-## 돼죠
+---  
+**과  제**
+---  
+`Hello`
+---   
+제발
+---  
+ # # 돼죠
 
 
 * 안돼 
