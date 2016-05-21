@@ -62,9 +62,7 @@ _(**참고로 저는 요리를 못합니다. 먹는 걸 좋아합니다.*)_
  
  감사합니다.  
 
-* 안돼 
-
-- 제발
+[재환이 홈페이지! (자소서 포함)][jh]
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
@@ -81,8 +79,7 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
-[재환이 홈페이지!][jh]
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
-[jh]: 		 http://jhkc.github.com
+[jh]: 		 http://jhkc.github.io
