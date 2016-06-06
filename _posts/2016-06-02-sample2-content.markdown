@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "회의록"
+title:  " ----- "
 date:   2016-02-12 17:50:00
 categories: main
 ---
