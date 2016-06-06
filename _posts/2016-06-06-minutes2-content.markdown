@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "자기소개서"
+title:  "회의록2"
 date:   2016-02-12 17:50:00
 categories: main
 ---
