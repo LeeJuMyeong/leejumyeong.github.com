@@ -42,9 +42,10 @@ categories: main
 ## 회의 증명 사진   
    
 회의 시작 사진   
-![희의 시작 사진](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/minutes.jpg?raw=true)   
+![회의 시작 사진](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/minutes.jpg?raw=true)   
    
 회의 끝 사진   
-![희의 끝 사진](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/minutes2.jpg?raw=true)   
+![회의 끝 사진](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/minutes2.jpg?raw=true)   
+
 ---   
 
