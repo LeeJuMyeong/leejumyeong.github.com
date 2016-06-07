@@ -41,5 +41,10 @@ categories: main
 
 ## 회의 증명 사진   
    
-
+회의 시작 사진   
+![희의 시작 사진](leejumyeong.github.com/img/minutes.jpg)   
+   
+회의 끝 사진   
+![희의 끝 사진](leejumyeong.github.com/img/minutes2.jpg)   
 ---   
+
