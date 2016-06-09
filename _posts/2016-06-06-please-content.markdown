@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "회의록"
+title:  "IoT Idea Design Report"
 date:   2016-02-12 17:50:00
 categories: main
 ---
