@@ -70,9 +70,10 @@ categories: main
 <div id='section4-2'/>
 ## 2) 시스템 구조
 
+<br>
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true"></center>
 <center>▲ 시스템 구성도 1</center>    
-
+<br>
 
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true" height="500px"></center>
 <center>▲ 시스템 구성도 2</center>    
