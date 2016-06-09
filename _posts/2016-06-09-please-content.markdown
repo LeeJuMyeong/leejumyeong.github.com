@@ -10,11 +10,11 @@ categories: main
 
 #### <center> NFC를 이용한 스마트 식당</center>    
 
-| |
+<center>| |
 | :-: | -: |
 | 팀 원 | 이주명, 김재환, 최민호, 조영준 |
 | 지도교수 | 권오영 교수님 |
-| 제 출 일 | 2016년 6월 6일 |
+| 제 출 일 | 2016년 6월 6일 |</center> 
 
 ![한기대로고](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true)
 
