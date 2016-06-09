@@ -74,7 +74,7 @@ categories: main
 
 ![시스템구성도1](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true)
 
-<center>▲ 시스템 구성도 1</center>
+<center>▲ 시스템 구성도 1</center>  
 
 ![시스템구성도2](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true)
 
