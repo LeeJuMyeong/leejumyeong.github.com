@@ -1,13 +1,13 @@
 # Setup
 title:        Computer System Basic Design
 tagline:      201136093 이주명 2011136024 김재환 2011136129 최민호 2015136124 조영준  
-baseurl:      ""
+baseurl:      "https://github.com/LeeJuMyeong/leejumyeong.github.com.git"
 paginate:     1
 
 # About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+author:       Team
+  name:       LeeJuMyeong
+  url:        "https://github.com/LeeJuMyeong/leejumyeong.github.com"
 
 # Gems
 gems:
