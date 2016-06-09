@@ -3,7 +3,8 @@ layout: default
 title:  "IoT Idea Design Report"
 categories: main
 ---
-===
+===  
+
 # <center>컴퓨터공학부</center>   
 
 #### <center>컴퓨터 시스템 기초설계</center>  
@@ -16,7 +17,7 @@ categories: main
 
 ![한기대로고](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true) 
 
-===
+===  
 
 # 목차
   1. [문제 상황, 문제에 따른 목적 및 요구사항 도출](#section1)
