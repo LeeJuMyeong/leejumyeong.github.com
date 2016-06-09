@@ -3,11 +3,11 @@ layout: default
 title:  "IoT Idea Design Report"
 categories: main
 ---
-
+   
 # <center>컴퓨터 시스템 기초설계</center>  
-
----   
-
+  
+--- 
+  
 ### <center> NFC를 이용한 스마트 식당</center>    
 
 <table style="margin-left:75%;">
