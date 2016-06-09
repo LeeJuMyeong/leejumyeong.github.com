@@ -42,7 +42,6 @@ categories: main
 
 <center>▲ 블록 다이어그램</center>    
 
-
 <div id='section3'/>
 # 3. 기존 제품과의 차별성 및 장점    
 
