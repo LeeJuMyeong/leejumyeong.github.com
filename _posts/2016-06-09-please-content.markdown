@@ -5,7 +5,7 @@ categories: main
 ---
 ---  
 
-# <center>컴퓨터공학부</center>   
+# <center>컴퓨터공학부1</center>   
 
 ### <center>컴퓨터 시스템 기초설계</center>  
 
