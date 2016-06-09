@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "IoT Idea Design Report"
-date:   2016-02-12 12:50:00
 categories: main
 ---
 
