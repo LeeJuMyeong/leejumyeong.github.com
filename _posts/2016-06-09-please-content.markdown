@@ -10,7 +10,7 @@ categories: main
 
 # <center> NFC를 이용한 스마트 식당</center>    
 
-<table style=”float:right; margin-right:10px;”>
+<table align="right">
 <tr><td style="text-align:center;">팀원</td><td style="text-align:right;">이주명, 김재환, 최민호, 조영준</td></tr>
 <tr><td style="text-align:center;">지도교수</td><td style="text-align:right;">권오영 교수님</td></tr>
 <tr><td style="text-align:center;">제출일</td><td style="text-align:right;">2016년 6월 6일</td></tr>
@@ -147,7 +147,7 @@ categories: main
 <div id='section5'/>
 # 5. 팀 구성 및 역할분담
 
-<table style="text-align:center; margin:1em auto;">
+<table align="center" style="text-align:center;">
 <tr><th>소속 학과</th><th>역 할</th><th>성 명</th><th>학 번</th></tr>
 <tr><td>컴퓨터공학부</td><td>대표자</td><td>이주명</td><td>2011136093</td></tr>
 <tr><td>컴퓨터공학부</td><td>시스템설계</td><td>김재환</td><td>2011136024</td></tr>
