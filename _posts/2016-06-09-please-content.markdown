@@ -6,6 +6,8 @@ categories: main
 
 # <center>컴퓨터 시스템 기초설계</center>  
 
+---   
+
 ### <center> NFC를 이용한 스마트 식당</center>    
 
 <table style="margin-left:75%;">
@@ -31,7 +33,7 @@ categories: main
 
 ---
 
-[![참조 동영상](http://img.youtube.com/vi/hGepuvE-Fc8/0.jpg)](https://youtu.be/hGepuvE-Fc8)
+[![참조 동영상](http://img.youtube.com/vi/hGepuvE-Fc8/0.jpg)](https://youtu.be/hGepuvE-Fc8)  
 
 <div id='section1'/>
 # 1. 문제 상황, 문제에 따른 목적 및 요구사항 도출
