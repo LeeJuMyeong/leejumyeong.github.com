@@ -10,7 +10,7 @@ categories: main
 
 # <center> NFC를 이용한 스마트 식당</center>    
 
-<table style="align:center; margin:auto;">
+<table align="right">
 <tr><td style="text-align:center;">팀원</td><td style="text-align:right;">이주명, 김재환, 최민호, 조영준</td></tr>
 <tr><td style="text-align:center;">지도교수</td><td style="text-align:right;">권오영 교수님</td></tr>
 <tr><td style="text-align:center;">제출일</td><td style="text-align:right;">2016년 6월 6일</td></tr>
@@ -147,20 +147,13 @@ categories: main
 <div id='section5'/>
 # 5. 팀 구성 및 역할분담
 
-<table style="align:center; margin:auto; text-align:center;">
-<th><td>소속 학과</td><td>역 할</td><td>성 명</td><td>학 번</td></th>
+<table align="center" style="text-align:center;">
+<tr><th>소속 학과</th><th>역 할</th><th>성 명</th><th>학 번</th></tr>
 <tr><td>컴퓨터공학부</td><td>대표자</td><td>이주명</td><td>2011136093</td></tr>
 <tr><td>컴퓨터공학부</td><td>시스템설계</td><td>김재환</td><td>2011136024</td></tr>
 <tr><td>컴퓨터공학부</td><td>UI설계</td><td>최민호</td><td>2011136129</td></tr>
 <tr><td>컴퓨터공학부</td><td>UI설계</td><td>조영준</td><td>2015136124</td></tr>
 </table>
-
-|  소속 학과   | 역 할  | 성 명  |   학 번    |
-| :----------: | :----: | :----: | :--------: |
-| 컴퓨터공학부 | 대표자 | 이주명 | 2011136093 |
-| 컴퓨터공학부 | 시스템설계 | 김재환 | 2011136024 |
-| 컴퓨터공학부 | UI설계 | 최민호 | 2011136129 |
-| 컴퓨터공학부 | UI설계 | 조영준 | 2015136124 |
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
