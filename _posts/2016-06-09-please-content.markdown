@@ -15,7 +15,7 @@ categories: main
 | 지도교수 | 권오영 교수님 |
 | 제 출 일 | 2016년 6월 6일 |
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true"></center>
+<img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true" style="align:center;">
 
 ---
 
@@ -53,9 +53,9 @@ categories: main
 
 기존 시스템의 경우, 태블릿 PC를 이용한 주문 및 계산을 통해 식당 측과 손님의 불편함을 어느 정도 해소하였다. 그러나 주문과 계산에만 그 기능이 한정되었고, 그로 인해 기존의 시스템의 경우 아직 해결되지 않은 많은 문제점이 존재하며 사용자와 서비스 제공자의 편의를 더욱 개선할 필요성이 남아 있다. 이러한 기존 시스템과 차별을 두어 본 시스템에서는 재료 관리 및 애플리케이션을 접목시켜 새로운 시스템을 제안 하고자 한다. 
 
-<center>![시스템관계도](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imga.png?raw=true)</center>  
+![시스템관계도](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imga.png?raw=true)  
 
-▲ 시스템 관계도
+<center>▲ 시스템 관계도</center>  
 
 본 시스템의 경우 각 테이블에 설치된 태블릿 PC와 계산대, 주방의 태블릿 PC를 연동시킨다. 이는 그동안 서빙을 하는 종업원이 메뉴판을 가져다주며 메뉴를 주문하면 이를 주방에 전달하고 손님이 나갈 때 들고 오는 계산서를 통해 계산을 하는 기존의 시스템과 달리, 테이블에 위치한 태블릿 PC를 통해 손님이 직접 주문을 하고, 이를 주방과 계산대에 연결된 태블릿 PC화면에 전달해 요리사는 해당 메뉴를 만들고, 주문과 동시에 계산 내역이 계산대에 위치한 태블릿 PC에 저장되어 기존의 종업원이 수행하던 업무를 태블릿 PC로 대체하게 된다. 또한 주방에서는 냉장고 안에 구획이 나누어져 있고, 이는 재료의 위치별 구획을 뜻하며, 냉장고 있는 재료를 꺼낼 경우 재료의 출입 여부를 확인하는데, 이를 위해 냉장고 각 구획별로 재료의 종류를 인식하고자 재료를 담는 상자에 식별 카드로서 NFC 카드를 부착하여 재료의 출입에 따른 존재 여부를 파악하게 되고, 해당 데이터는 데이터베이스에 저장된다. 이렇게 데이터베이스에 저장되어 있는 정보는 이후 재료를 공급하는 업체의 메인 서버와 연동되어 있으며, 공급 업체에서 현재 식당의 재료를 실시간으로 파악할 수 있고, 식당에서 재료의 사용에 따라 냉장고에 남은 재료가 부족해질 경우, 이를 식당에 알리며 식당에서 재료의 배달을 원할 경우 해당 재료를 보다 정확하고 빠르게 공급 업체에 알림으로써 수월한 전달이 가능해진다. 그리고 재료 공급자 측에서는 다른 데이터베이스를 가지고 있으며, 이를 통해 여러 개의 위와 같은 시스템으로 이루어진 식당에 대한 정보를 가지고 여러 식당들의 재료를 동시에 관리할 수 있게 된다. 이는 재고 관리 측면에 있어서도 기존의 시스템보다 더욱 효율적이며, 소비자의 경우 애플리케이션을 활용하여 식당으로 가기 전에 식당의 현재 테이블의 상황을 확인할 수 있고, 해당 식당에 대한 평가 기능을 통해 선택에 도움을 받게 된다.
 
@@ -74,7 +74,7 @@ categories: main
 
 ![시스템구성도1](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true)
 
-<center>▲ 시스템 구성도 1</center>
+<center>▲ 시스템 구성도 1</center>  
 
 ![시스템구성도2](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true)
 
