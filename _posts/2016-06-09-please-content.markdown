@@ -7,9 +7,9 @@ categories: main
 # 컴퓨터공학부
 
 
-#### <p align="center">컴퓨터 시스템 기초설계</p>
+#### <p align="center">컴퓨터 시스템 기초설계  
 
-#### <p align="center">NFC를 이용한 스마트 식당 </p>
+#### NFC를 이용한 스마트 식당 
 
 | |
 | :-: | -: |
