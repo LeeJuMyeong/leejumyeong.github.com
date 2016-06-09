@@ -7,7 +7,7 @@ categories: main
 # <center style="font-size: 60px; color: #999999;"><strong> 컴퓨터 시스템 기초설계</strong></center>    
   
   
-### <center> NFC를 이용한 스마트 식당</center>    
+## <center> NFC를 이용한 스마트 식당</center>    
 
 <table style="margin-left:75%;">
 <tr><td style="text-align:center;">팀원</td><td style="text-align:right;">이주명, 김재환, 최민호, 조영준</td></tr>
