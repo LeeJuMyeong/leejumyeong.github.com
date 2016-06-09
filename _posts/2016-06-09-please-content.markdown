@@ -70,10 +70,10 @@ categories: main
 <div id='section4-2'/>
 ## 2) 시스템 구조
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true" height="500px"></center>
 <br><center>▲ 시스템 구성도 1</center>  
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true" height="500px"></center>
 <br><center>▲ 시스템 구성도 2</center>
 
 <div id='section4-3'/>
@@ -132,13 +132,13 @@ categories: main
 
 ## 5) 각 시스템 기능 별 시스템 구성 요소 간의 동작 흐름
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imge.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imge.png?raw=true" height="500px"></center>
 <br><center>▲ 시스템 흐름도 1</center>  
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgf.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgf.png?raw=true" height="500px"></center>
 <br><center>▲ 시스템 흐름도 2</center>  
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgg.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgg.png?raw=true" height="500px"></center>
 <br><center>▲ 시스템 흐름도 3</center>  
 
 ---
