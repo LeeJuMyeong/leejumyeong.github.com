@@ -1,11 +1,11 @@
 # Setup
-title:        Computer System Basic Design
-tagline:      201136093 이주명 2011136024 김재환 2011136129 최민호 2015136124 조영준  
+title:        Project or Site name
+tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
 
 # About/contact
-author:       
+author:
   name:       Author name
   url:        http://yourhomepage.com 
 
