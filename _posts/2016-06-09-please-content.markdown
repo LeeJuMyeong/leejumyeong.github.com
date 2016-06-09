@@ -30,7 +30,7 @@ categories: main
   5. [팀원 및 역할분담](#section5)
 
 ---
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hGepuvE-Fc8/0.jpg)](https://youtu.be/hGepuvE-Fc8?t=0s) Video Label  
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hGepuvE-Fc8/0.jpg)](https://www.youtube.com/watch?v=hGepuvE-Fc8 "Video1")  
 <div id='section1'/>
 # 1. 문제 상황, 문제에 따른 목적 및 요구사항 도출
 
