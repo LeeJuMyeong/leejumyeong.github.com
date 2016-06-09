@@ -40,7 +40,8 @@ categories: main
 
 ![블록다이어그램](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgb.png?raw=true)
 
-<center>▲ 블록 다이어그램</center>
+<center>▲ 블록 다이어그램</center>    
+
 
 <div id='section3'/>
 # 3. 기존 제품과의 차별성 및 장점
