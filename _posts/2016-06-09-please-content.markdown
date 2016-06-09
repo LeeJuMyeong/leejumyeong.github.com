@@ -3,12 +3,12 @@ layout: default
 title:  "IoT Idea Design Report"
 categories: main
 ---
-{text-align:center;}
+
 # 컴퓨터공학부
 
-# 컴퓨터 시스템 기초설계
+### 컴퓨터 시스템 기초설계{text-align:center;}
 
-# NFC를 이용한 스마트 식당 
+### NFC를 이용한 스마트 식당 
 
 | |
 | :-: | -: |
