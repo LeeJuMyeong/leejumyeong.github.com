@@ -15,7 +15,7 @@ categories: main
 | 지도교수 | 권오영 교수님 |
 | 제 출 일 | 2016년 6월 6일 |
 
-<img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true" style="text-align:center;">
+<img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true" style="align:center;">
 
 ---
 
@@ -53,7 +53,7 @@ categories: main
 
 기존 시스템의 경우, 태블릿 PC를 이용한 주문 및 계산을 통해 식당 측과 손님의 불편함을 어느 정도 해소하였다. 그러나 주문과 계산에만 그 기능이 한정되었고, 그로 인해 기존의 시스템의 경우 아직 해결되지 않은 많은 문제점이 존재하며 사용자와 서비스 제공자의 편의를 더욱 개선할 필요성이 남아 있다. 이러한 기존 시스템과 차별을 두어 본 시스템에서는 재료 관리 및 애플리케이션을 접목시켜 새로운 시스템을 제안 하고자 한다. 
 
-![시스템관계도](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imga.png?raw=true)
+<center>![시스템관계도](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imga.png?raw=true)</center>  
 
 ▲ 시스템 관계도
 
@@ -74,11 +74,11 @@ categories: main
 
 ![시스템구성도1](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true)
 
-▲ 시스템 구성도 1
+<center>▲ 시스템 구성도 1</center>
 
 ![시스템구성도2](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true)
 
-▲ 시스템 구성도 2
+<center>▲ 시스템 구성도 2</center>
 
 <div id='section4-3'/>
 ## 3) 시스템의 기능
@@ -138,15 +138,15 @@ categories: main
 
 ![시스템 흐름도 1](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imge.png?raw=true)
 
-▲ 시스템 흐름도 1
+<center>▲ 시스템 흐름도 1</center>  
 
 ![시스템 흐름도 2](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgf.png?raw=true)
 
-▲ 시스템 흐름도 2
+<center>▲ 시스템 흐름도 2</center>  
 
 ![시스템 흐름도 3](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgg.png?raw=true)
 
-▲ 시스템 흐름도 3
+<center>▲ 시스템 흐름도 3</center>  
 
 ---
 
