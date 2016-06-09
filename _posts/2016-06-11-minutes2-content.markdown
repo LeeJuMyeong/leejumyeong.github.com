@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "수정용" 
+title:  "수정용"
 categories: main
 ---
 
