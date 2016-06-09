@@ -27,7 +27,7 @@ categories: main
 권오영 교수님
 제 출 일
 2016-6-6
-
+![한기대로고](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true)
 
 
 
