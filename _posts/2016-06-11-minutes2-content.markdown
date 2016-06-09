@@ -1,7 +1,6 @@
 ---
 layout: default
-title:  "IoT_Idea_Design_Report"
-date:   2016-06-11 17:50:00
+title:  "수정용
 categories: main
 ---
 
