@@ -5,9 +5,9 @@ baseurl:      "https://github.com/LeeJuMyeong/leejumyeong.github.com.git"
 paginate:     1
 
 # About/contact
-author:       Team
+author:       
   name:       LeeJuMyeong
-  url:        "https://github.com/LeeJuMyeong/leejumyeong.github.com"
+  url:        https://github.com/LeeJuMyeong/leejumyeong.github.com
 
 # Gems
 gems:
