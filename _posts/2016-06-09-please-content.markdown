@@ -3,17 +3,18 @@ layout: default
 title:  "IoT Idea Design Report"
 categories: main
 ---
----  
 
-# <center>컴퓨터공학부</center>   
+### <center>컴퓨터공학부</center>   
 
-### <center>컴퓨터 시스템 기초설계</center>  
+## <center>컴퓨터 시스템 기초설계</center>  
 
-### <center> NFC를 이용한 스마트 식당</center>    
+# <center> NFC를 이용한 스마트 식당</center>    
 
+<center>
 | 팀 원 | 이주명, 김재환, 최민호, 조영준 | 
 | 지도교수 | 권오영 교수님 | 
 | 제 출 일 | 2016년 6월 6일 | 
+</center>
 
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true"></center>
 
@@ -70,10 +71,10 @@ categories: main
 <div id='section4-2'/>
 ## 2) 시스템 구조
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgc.png?raw=true" height="600px"></center>
 <br><center>▲ 시스템 구성도 1</center>  
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgd.png?raw=true" height="600px"></center>
 <br><center>▲ 시스템 구성도 2</center>
 
 <div id='section4-3'/>
@@ -132,13 +133,13 @@ categories: main
 
 ## 5) 각 시스템 기능 별 시스템 구성 요소 간의 동작 흐름
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imge.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imge.png?raw=true" height="600px"></center>
 <br><center>▲ 시스템 흐름도 1</center>  
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgf.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgf.png?raw=true" height="600px"></center>
 <br><center>▲ 시스템 흐름도 2</center>  
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgg.png?raw=true"></center>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgg.png?raw=true" height="600px"></center>
 <br><center>▲ 시스템 흐름도 3</center>  
 
 ---
