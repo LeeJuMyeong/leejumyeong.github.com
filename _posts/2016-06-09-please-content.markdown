@@ -4,14 +4,17 @@ title:  "IoT Idea Design Report"
 categories: main
 ---
 
+<center>
 # 컴퓨터공학부
 
 
-#### <p align="center">컴퓨터 시스템 기초설계  
+#### 컴퓨터 시스템 기초설계  
 
 #### NFC를 이용한 스마트 식당 
 
-| |
+</center>
+
+| | |
 | :-: | -: |
 | 팀 원 | 이주명, 김재환, 최민호, 조영준 |
 | 지도교수 | 권오영 교수님 |
