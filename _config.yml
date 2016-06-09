@@ -6,8 +6,8 @@ paginate:     1
 
 # About/contact
 author:       
-  name:       LeeJuMyeong
-  url:        https://github.com/LeeJuMyeong/leejumyeong.github.com
+  name:       LeeJuMyeong 
+  url:        http://yourhomepage.com 
 
 # Gems
 gems:
