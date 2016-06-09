@@ -4,7 +4,7 @@ title:  "IoT Idea Design Report"
 categories: main
 ---
 ===
-$$#컴퓨터공학부$$  
+#$$컴퓨터공학부$$  
 
 {: .text-center }  
 
