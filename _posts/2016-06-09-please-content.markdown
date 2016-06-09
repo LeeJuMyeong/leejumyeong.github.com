@@ -14,7 +14,7 @@ categories: main
 | 지도교수 | 권오영 교수님 |
 | 제 출 일 | 2016년 6월 6일 |
 
-<center>![한기대로고](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true)</center>   
+![한기대로고](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true)
 
 ----------
 
