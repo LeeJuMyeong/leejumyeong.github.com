@@ -42,6 +42,7 @@ categories: main
 # 2. 핵심 아이디어 및 전체 시스템 구조 
 
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgb.png?raw=true"></center>
+<br>
 <center>▲ 블록 다이어그램</center>    
 
 ---
