@@ -5,7 +5,9 @@ categories: main
 ---
 ===
 #컴퓨터공학부  
-{: .text-center }
+
+{: .text-center }  
+
 
 #               컴퓨터 시스템 기초설계
 
