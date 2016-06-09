@@ -4,7 +4,7 @@ title:  "IoT Idea Design Report"
 categories: main
 ---
    
-# <center> __ 컴퓨터 시스템 기초설계 __ </center>  
+# <center> _*컴퓨터 시스템 기초설계*_ </center>  
   
   
 ### <center> NFC를 이용한 스마트 식당</center>    
