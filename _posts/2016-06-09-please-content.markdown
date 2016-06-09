@@ -2,7 +2,7 @@
 layout: default
 title:  "IoT Idea Design Report"
 categories: main
-***
+___
 
 # <center>컴퓨터공학부</center>   
 
