@@ -10,10 +10,10 @@ categories: main
 
 # <center> NFC를 이용한 스마트 식당</center>    
 
-<table style="margin:auto;">
-<tr><td>팀원</td><td>이주명, 김재환, 최민호, 조영준</td></tr>
-<tr><td>지도교수</td><td>권오영 교수님</td></tr>
-<tr><td>제출일</td><td>2016년 6월 6일</td></tr>
+<table style="align:center; margin:auto;">
+<tr><td style="text-align:center;">팀원</td><td style="text-align:right;">이주명, 김재환, 최민호, 조영준</td></tr>
+<tr><td style="text-align:center;">지도교수</td><td style="text-align:right;">권오영 교수님</td></tr>
+<tr><td style="text-align:center;">제출일</td><td style="text-align:right;">2016년 6월 6일</td></tr>
 </table>
 
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true"></center>
@@ -146,6 +146,14 @@ categories: main
 
 <div id='section5'/>
 # 5. 팀 구성 및 역할분담
+
+<table style="align:center; margin:auto; text-align:center;">
+<th><td>소속 학과</td><td>역 할</td><td>성 명</td><td>학 번</td></th>
+<tr><td>컴퓨터공학부</td><td>대표자</td><td>이주명</td><td>2011136093</td></tr>
+<tr><td>컴퓨터공학부</td><td>시스템설계</td><td>김재환</td><td>2011136024</td></tr>
+<tr><td>컴퓨터공학부</td><td>UI설계</td><td>최민호</td><td>2011136129</td></tr>
+<tr><td>컴퓨터공학부</td><td>UI설계</td><td>조영준</td><td>2015136124</td></tr>
+</table>
 
 |  소속 학과   | 역 할  | 성 명  |   학 번    |
 | :----------: | :----: | :----: | :--------: |
