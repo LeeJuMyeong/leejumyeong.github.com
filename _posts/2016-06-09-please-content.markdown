@@ -14,7 +14,7 @@ categories: main
 | 지도교수 | 권오영 교수님 |
 | 제 출 일 | 2016년 6월 6일 |
 
-|![한기대로고](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true)|   
+![한기대로고](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/koreatechlogo.png?raw=true) 
 
 ----------
 
@@ -40,7 +40,7 @@ categories: main
 
 ![블록다이어그램](https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgb.png?raw=true)
 
-▲ 블록 다이어그램
+<center>▲ 블록 다이어그램</center>
 
 <div id='section3'/>
 # 3. 기존 제품과의 차별성 및 장점
