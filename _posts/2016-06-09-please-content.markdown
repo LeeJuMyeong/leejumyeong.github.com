@@ -41,8 +41,7 @@ categories: main
 <div id='section2'/>
 # 2. 핵심 아이디어 및 전체 시스템 구조 
 
-<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgb.png?raw=true"></center>
-<br>
+<center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgb.png?raw=true"></center>  
 <center>▲ 블록 다이어그램</center>    
 
 ---
@@ -138,15 +137,15 @@ categories: main
 
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imge.png?raw=true" height="600px"></center>
 <center>▲ 시스템 흐름도 1</center>    
-
+<br>
 
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgf.png?raw=true" height="600px"></center>
 <center>▲ 시스템 흐름도 2</center>    
-
+<br>
 
 <center><img src="https://github.com/LeeJuMyeong/leejumyeong.github.com/blob/master/img/imgg.png?raw=true" height="600px"></center>
 <center>▲ 시스템 흐름도 3</center>    
-
+<br>
 
 ---
 
